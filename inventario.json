@@ -2,15 +2,8 @@
     {
         "id": 1,
         "titulo": "Maurice",
-        "autor": "Annie",
-        "qtde": 10,
-        "preco": 12.99
-    },
-    {
-        "id": 2,
-        "titulo": "Carl Lewis",
-        "autor": "Data",
-        "qtde": 12,
+        "autor": "Annie Frankie",
+        "qtde": 15,
         "preco": 11.99
     }
 ]
